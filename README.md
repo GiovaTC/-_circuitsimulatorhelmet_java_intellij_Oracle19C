@@ -1,6 +1,8 @@
 # -_circuitsimulatorhelmet_java_intellij_Oracle19C .  
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8aef28e5-792e-4dbf-b5ce-e72d45f34bf6" />  
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8aef28e5-792e-4dbf-b5ce-e72d45f34bf6" />   
+
+<img width="2546" height="1079" alt="image" src="https://github.com/user-attachments/assets/4fa029c0-414e-465a-a585-9f3117117b04" />   
 
 # CircuitSimulatorHelmet.java  
 Aplicación Java Swing (Single-file) para IntelliJ  
